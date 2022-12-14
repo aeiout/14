@@ -9,6 +9,7 @@ int findDivisor(int x){
         i++;
     }
 }
+return i;
 }
 int main(){
     int x;
